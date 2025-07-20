@@ -1,9 +1,17 @@
 {
-  "name": "namstenode",
+  "name": "namsteindia",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is my first project for resume",
+  "homepage": "https://github.com/roshani9324/NamsteNode-project#readme",
+  "bugs": {
+    "url": "https://github.com/roshani9324/NamsteNode-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshani9324/NamsteNode-project.git"
+  },
   "license": "ISC",
-  "author": "",
+  "author": "Roshani maurya",
   "type": "commonjs",
   "main": "App.js",
   "scripts": {
